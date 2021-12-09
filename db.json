@@ -17,6 +17,12 @@
       "text": "Complete the research 🔎",
       "day": "May 6th at 1:30pm",
       "reminder": false
+    },
+    {
+      "text": "Finish Angular Crash course ",
+      "day": "12/9/2021",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
