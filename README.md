@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm install` to install all dependencies
-Run `ng serve` for a dev server of the front-end. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm install` to install all dependencies.  
+Run `ng serve` for a dev server of the front-end. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.  
 Run `npm run server` to run the json-server.  Navigate to `http://localhost:5000/`.
 
 ## Code scaffolding
